@@ -1,4 +1,4 @@
-<h1> Hi, I'm Carlos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Carlos! <img src="https://cdn.pixilart.com/photos/large/89d018b3e01b908.gif" width="70"></h1>
 <img align='right' src="https://pa1.narvii.com/6810/0f849dc1fdeabe3f6179139541619285a1776cba_00.gif" width="330">
 
 
