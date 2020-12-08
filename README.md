@@ -1,5 +1,5 @@
 <h2> Hi, I'm Thai Carlos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://pa1.narvii.com/6810/0f849dc1fdeabe3f6179139541619285a1776cba_00.gif" width="330">
 
 
 # Front-End Developer
