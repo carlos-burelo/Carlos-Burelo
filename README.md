@@ -1,8 +1,8 @@
-<h2> Hi, I'm Thai Carlos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Carlos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://pa1.narvii.com/6810/0f849dc1fdeabe3f6179139541619285a1776cba_00.gif" width="330">
 
 
-# Front-End Developer
+## Front-End Developer
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
