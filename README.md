@@ -33,9 +33,7 @@ console.log('this is me', info)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&hide=c&langs_count=8&theme=react )](https://github.com/carlos-burelo)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-burelo&repo=anime-stadia&theme=react)](https://github.com/carlos-burelo/anime-stadia)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&show_icons=true&theme=react)
 
 
