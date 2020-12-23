@@ -21,19 +21,25 @@ const info = {
   hobbys: ["anime", "Web development"],
   langs: [Javascript, Typescript, HTML, CSS, PHP, Python, Batch],
   tools: [React, Angular, Node, Vue, MongoDB, Firebase, Docker],
-  more: {
+  more:
+        {
           web: "carlos-burelo.github.io",
           contact: "t.me/CarlosBurelo",
           country: "Mexico"
         },
-console.log('this is me', info)
 }
+console.log('this is me', info)
 ```
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&hide=c&langs_count=8&theme=react )](https://github.com/carlos-burelo)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-burelo&repo=anime-stadia&theme=react)](https://github.com/carlos-burelo/anime-stadia)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&hide=c&langs_count=8&theme=react )](https://github.com/carlos-burelo)
+
+
+
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
