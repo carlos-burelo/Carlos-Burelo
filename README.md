@@ -32,9 +32,8 @@ console.log('this is me', info)
 ```
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&hide=c,shell&langs_count=6&theme=react )](https://github.com/carlos-burelo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&hide=bachtfile,html&langs_count=4&theme=react )](https://github.com/carlos-burelo)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&show_icons=true&theme=react)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-burelo&repo=Stadia&theme=react)](https://github.com/carlos-burelo/Stadia)
 
 
 
