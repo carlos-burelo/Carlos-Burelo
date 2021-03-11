@@ -1,5 +1,5 @@
 <h1> Hi, I'm Carlos! <img src="https://cdn.pixilart.com/photos/large/89d018b3e01b908.gif" width="70"></h1>
-<img align='right' src="https://pa1.narvii.com/6810/0f849dc1fdeabe3f6179139541619285a1776cba_00.gif" width="330">
+<img align='right' src="https://www.pngarts.com/files/4/Astronaut-PNG-Image-Background.png" width="330">
 
 
 ## Front-End Developer
