@@ -24,11 +24,11 @@
 const me = {
   name: "Carlos Burelo",
   hobbys: ["Anime", "Web development"],
-  langs: [Javascript, Typescript, HTML, CSS, PHP, Python, Batch],
-  tools: [React, Angular, Node, Vue, MongoDB, Firebase, GrapQL, SQL],
+  langs: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Go"],
+  tools: ["React", "Angular", "MongoDB", "Firebase", "GraphQL", "Supabase", "Ioni"c],
   more:
         {
-          web: "carlosburelo.tk",
+          web: "https://carlosburelo.tk",
           contact: "t.me/CarlosBurelo",
           country: "Mexico"
         },
