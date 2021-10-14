@@ -25,7 +25,7 @@ const me = {
   name: "Carlos Burelo",
   hobbys: ["Anime", "Web development"],
   langs: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Go"],
-  tools: ["React", "Angular", "MongoDB", "Firebase", "GraphQL", "Supabase", "Ioni"c],
+  tools: ["React", "Angular", "MongoDB", "Firebase", "GraphQL", "Supabase", "Ionic"],
   more:
         {
           web: "https://carlosburelo.tk",
