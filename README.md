@@ -21,9 +21,7 @@ Currently I focus on various technologies for which I have seen a good future ah
 ![next](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![next](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![s](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&theme=gotham&hide=issues&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&theme=gotham&hide=issues&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&layout=compact&theme=gotham)](https://github.com/carlos-burelo)
 
 
