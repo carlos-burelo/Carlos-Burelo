@@ -23,7 +23,7 @@ Currently I focus on various technologies for which I have seen a good future ah
 
 ![s](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&show_icons=true&theme=gotham&hide=issues&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-burelo&theme=gotham&hide=issues&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&layout=compact&theme=gotham)](https://github.com/carlos-burelo)
 
 
