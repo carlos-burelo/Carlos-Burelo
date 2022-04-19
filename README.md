@@ -21,20 +21,14 @@ Currently I focus on various technologies for which I have seen a good future ah
 ![next](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![next](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div style="display:flex;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%" src="https://github-readme-stats.vercel.app/api?username=carlos-burelo&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&layout=compact&theme=gotham&langs_count=8"/>
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=carlos-burelo&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 ## Contact me
 <div style="display:flex">
   <a href="https://t.me/CarlosBurelo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/carlos.burelo.773">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/CarlosBurelo9">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
 </div>
