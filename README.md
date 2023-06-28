@@ -1,34 +1,42 @@
-# Hi, i'm Carlos
+# Welcome to My GitHub Profile! 👋
 
-I am a web developer and a constant contributor to open source as a hobby, I am currently a university student with a fascination for learning new technologies that help me improve my productivity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlos-burelo&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-Currently I focus on various technologies for which I have seen a good future ahead and I have given myself the task of learning them
+## About Me
 
+I'm Carlos Burelo, a professional web developer with a passion for open-source projects. My expertise lies in crafting robust and scalable web applications using cutting-edge technologies. TypeScript is my preferred language for its strong typing and enhanced tooling, enabling me to deliver high-quality code.
 
-## MY SKILLS
-
-![next](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=next.js&logoColor=white)
-![next](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
-![next](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![next](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![next](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![next](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![next](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![next](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![next](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![next](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![next](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![next](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![next](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I actively contribute to the open-source community, collaborating with developers worldwide to create impactful solutions. I firmly believe in the power of collaboration and its ability to drive innovation in the software development ecosystem.
 
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=carlos-burelo&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-burelo&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
-## Contact me
-<div style="display:flex">
-  <a href="https://t.me/CarlosBurelo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" />
-  </a>
-</div>
+## Skills
+
+Here are some of the languages and skills I specialize in:
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Feel free to explore my repositories to gain more insights into my work and projects!
+
+## Let's Connect!
+
+If you're interested in collaborating on exciting projects or have any questions, feel free to reach out to me. You can find me on the following platforms:
+
+- GitHub: [Carlos Burelo](https://github.com/carlos-burelo)
+- LinkedIn: [Carlos Burelo](https://linkedin.com/in/carlosburelo)
+- Email: carlosfernandoburelo@gmail.com
+
+Looking forward to connecting with you and making a positive impact together! 🚀
